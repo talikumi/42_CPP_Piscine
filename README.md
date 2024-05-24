@@ -13,7 +13,7 @@ Files for the old CPP Piscine (2022)
 
 ## Usage
 
-This project includes Makefiles for each exercise, therefore you can navigate to each exercise folder and use make to build the project. 
+This project includes Makefiles for each exercise, therefore you can navigate to each exercise folder and use `make` to build the project. 
 After building, run the executable file specified by the NAME variable in the Makefile.
 
 ## Project Status
